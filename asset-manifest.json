@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robotex/static/css/main.000def6b.css",
+    "main.js": "/robotex/static/js/main.327ac1ad.js",
+    "static/js/787.0e1ceb4d.chunk.js": "/robotex/static/js/787.0e1ceb4d.chunk.js",
+    "index.html": "/robotex/index.html",
+    "main.000def6b.css.map": "/robotex/static/css/main.000def6b.css.map",
+    "main.327ac1ad.js.map": "/robotex/static/js/main.327ac1ad.js.map",
+    "787.0e1ceb4d.chunk.js.map": "/robotex/static/js/787.0e1ceb4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000def6b.css",
+    "static/js/main.327ac1ad.js"
+  ]
+}
